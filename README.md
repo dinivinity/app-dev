@@ -7,6 +7,7 @@ My first repository
 ![Gurren_Lagann_key_visual](https://github.com/user-attachments/assets/28bbe3cb-f095-442b-a442-9973f390457a)
 - Gurren Lagann
 <img width="250" height="352" alt="Vinland_Saga_key_visual" src="https://github.com/user-attachments/assets/ba3dae15-1d5a-4420-845a-b9c2dea151af" />
+
 - Vinland Saga
 - Chainsaw Man
 - One Punch Man
