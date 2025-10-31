@@ -27,9 +27,20 @@ My first repository
 ![Invincible_Issue_75](https://github.com/user-attachments/assets/f4e2d955-a300-4c4c-874a-002cc46ddf06)
 
 - The Boys
+  
+![The_Boys_Season_2](https://github.com/user-attachments/assets/e5fc84ba-cfb4-44b0-a854-aadd45e19d65)
+
 - Berserk
+<img width="262" height="372" alt="Berserk_vol01" src="https://github.com/user-attachments/assets/134e4aa8-3ba5-4fd2-a304-cdde835c1a86" />
+
 - Jojo's Bizzare Adventure
-- The Amazing World of Gumball
+  
+![JoJo_Part_1_Phantom_Blood](https://github.com/user-attachments/assets/126dae99-29ab-4a63-b86b-4887322f720a)
+
+- The Amazing World of Gumball/The Wonderfully Weird World of Gumball
+- 
+![TAWOGTheWonderfullyWeirdWorldOfGumball](https://github.com/user-attachments/assets/57788f3a-0ebd-46b1-8af7-3bd44d90200a)
+
 
 ### Movies  
 - Lord of the Rings trilogy
