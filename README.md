@@ -47,7 +47,9 @@ My first repository
 
 ![unnamed](https://github.com/user-attachments/assets/3e3a59ff-a3d2-42cc-bd49-b59940f70894)
 
-- Pirates of the Carribean trilogy
+- Pirates of the Caribbean trilogy
+<img width="250" height="370" alt="Pirates_of_the_Caribbean_-_On_Stranger_Tides" src="https://github.com/user-attachments/assets/78bed1c2-8e71-442a-8a56-7bdcc72d7cb9" />
+
 - Spiderman: Into the Spiderverse
 - Interstellar
 - Hacksaw Ridge
