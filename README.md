@@ -4,7 +4,7 @@ My first repository
 ## My Favorite series/movies
 
 ### Series
-<img width="204" height="297" alt="Screenshot 2025-08-25 192940" src="https://github.com/user-attachments/assets/6375a92f-a814-41ae-9e18-3052599f5fcd" />
+(<img width="204" height="297" alt="Screenshot 2025-08-25 192940" src="https://github.com/user-attachments/assets/6375a92f-a814-41ae-9e18-3052599f5fcd" />)
 - Gurren Lagann
 - Vinland Saga
 - Chainsaw Man
