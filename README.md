@@ -19,7 +19,13 @@ My first repository
 <img width="250" height="391" alt="OnePunchMan_manga_cover" src="https://github.com/user-attachments/assets/893450ff-b1c2-4e00-bda8-7d90c7ddb6ef" />
 
 - Attack on Titan
+
+![Shingeki_no_Kyojin_manga_volume_1](https://github.com/user-attachments/assets/f4d8479b-6bc0-443e-85a6-ec014e1702fc)
+
 - Invincible
+  
+![Invincible_Issue_75](https://github.com/user-attachments/assets/f4e2d955-a300-4c4c-874a-002cc46ddf06)
+
 - The Boys
 - Berserk
 - Jojo's Bizzare Adventure
