@@ -47,13 +47,23 @@ My first repository
 
 ![unnamed](https://github.com/user-attachments/assets/3e3a59ff-a3d2-42cc-bd49-b59940f70894)
 
-- Pirates of the Caribbean trilogy
+- Pirates of the Caribbean movies
 <img width="250" height="370" alt="Pirates_of_the_Caribbean_-_On_Stranger_Tides" src="https://github.com/user-attachments/assets/78bed1c2-8e71-442a-8a56-7bdcc72d7cb9" />
 
-- Spiderman: Into the Spiderverse
+- Spiderman: Into the Spider-verse
+<img width="260" height="385" alt="Spider-Man_Into_the_Spider-Verse_poster" src="https://github.com/user-attachments/assets/91ffde26-73c6-428a-83a8-35b5a8e3615c" />
+
 - Interstellar
+
+![Interstellar_film_poster](https://github.com/user-attachments/assets/a4a0bf49-d0af-4427-a63e-053f6f1fed38)
+
 - Hacksaw Ridge
-- Captain America: Winder Soldier
+<img width="254" height="392" alt="Hacksaw_Ridge_poster" src="https://github.com/user-attachments/assets/30c08c26-f1f9-440b-8439-c00a6e6391fb" />
+
+- Captain America: The Winder Soldier
+
+![Captain_America_The_Winter_Soldier_main_poster](https://github.com/user-attachments/assets/0070d6ca-99a7-4602-be2c-5f60a697effa)
+
 - Star Trek
 - Django: Unchained
 - Pulp Fiction
