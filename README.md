@@ -9,6 +9,7 @@ My first repository
 <img width="250" height="352" alt="Vinland_Saga_key_visual" src="https://github.com/user-attachments/assets/ba3dae15-1d5a-4420-845a-b9c2dea151af"/>
 
 - Vinland Saga
+
 ![](https://github.com/user-attachments/assets/11645f36-ae75-4ca2-a053-419fee6b7c67)
 
 - Chainsaw Man
