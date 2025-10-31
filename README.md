@@ -38,12 +38,15 @@ My first repository
 ![JoJo_Part_1_Phantom_Blood](https://github.com/user-attachments/assets/126dae99-29ab-4a63-b86b-4887322f720a)
 
 - The Amazing World of Gumball/The Wonderfully Weird World of Gumball
-- 
+
 ![TAWOGTheWonderfullyWeirdWorldOfGumball](https://github.com/user-attachments/assets/57788f3a-0ebd-46b1-8af7-3bd44d90200a)
 
 
 ### Movies  
 - Lord of the Rings trilogy
+
+![unnamed](https://github.com/user-attachments/assets/3e3a59ff-a3d2-42cc-bd49-b59940f70894)
+
 - Pirates of the Carribean trilogy
 - Spiderman: Into the Spiderverse
 - Interstellar
