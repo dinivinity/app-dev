@@ -6,10 +6,11 @@ My first repository
 ### Series
 ![Gurren_Lagann_key_visual](https://github.com/user-attachments/assets/28bbe3cb-f095-442b-a442-9973f390457a)
 - Gurren Lagann
+
 <img width="250" height="352" alt="Vinland_Saga_key_visual" src="https://github.com/user-attachments/assets/ba3dae15-1d5a-4420-845a-b9c2dea151af"/>
 
 - Vinland Saga
-![55575967](https://github.com/user-attachments/assets/09854493-1b96-4003-8779-dbc35439e93f)
+![Chainsawman](https://github.com/user-attachments/assets/11645f36-ae75-4ca2-a053-419fee6b7c67)
 
 - Chainsaw Man
 <img width="250" height="391" alt="OnePunchMan_manga_cover" src="https://github.com/user-attachments/assets/893450ff-b1c2-4e00-bda8-7d90c7ddb6ef" />
