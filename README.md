@@ -5,12 +5,14 @@ My first repository
 
 ### Series
 - Gurren Lagann
+
 ![Gurren_Lagann_key_visual](https://github.com/user-attachments/assets/28bbe3cb-f095-442b-a442-9973f390457a)
 
 - Vinland Saga
 <img width="250" height="352" alt="Vinland_Saga_key_visual" src="https://github.com/user-attachments/assets/ba3dae15-1d5a-4420-845a-b9c2dea151af"/>
 
 - Chainsaw Man
+  
 ![](https://github.com/user-attachments/assets/11645f36-ae75-4ca2-a053-419fee6b7c67)
 
 - One Punch Man
