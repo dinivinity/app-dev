@@ -62,9 +62,20 @@ My first repository
 
 - Captain America: The Winder Soldier
 
-![Captain_America_The_Winter_Soldier_main_poster](https://github.com/user-attachments/assets/0070d6ca-99a7-4602-be2c-5f60a697effa)
+![Captain_America_The_Winter_Soldier_poster](https://github.com/user-attachments/assets/bbd17df7-9a28-4f1e-8c3e-79373675efb2)
 
 - Star Trek
+
+![Startrekposter](https://github.com/user-attachments/assets/726ee2e6-fb15-4ddf-be41-302019999af5)
+
 - Django: Unchained
+
+![Django_Unchained_Poster](https://github.com/user-attachments/assets/19761dfc-7496-43d4-9827-b6f5b46c0721)
+
 - Pulp Fiction
+
+![Pulp_Fiction_(1994)_poster](https://github.com/user-attachments/assets/b4739d4d-5e6a-499d-b155-db69286aad93)
+
 - Treasure Planet
+
+![Treasure_Planet_poster](https://github.com/user-attachments/assets/ae2e5581-0e04-4564-870f-564394b3d207)
